@@ -31,7 +31,7 @@ The Advice Generator App's dynamic and engaging dice button is one of its major 
 
 Provide step-by-step instructions on how to install your app. This might include:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-app.git`
+1. Clone the repository: `git clone https://github.com/HanishaSakalabhaktula/advice-generator-app.git`
 2. Navigate to the project directory: `cd your-app`
 3. Install dependencies: `npm install` or `yarn install`
 
@@ -46,8 +46,8 @@ Provide step-by-step instructions on how to install your app. This might include
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://64e9fbbbd561de3c3706a0d9--delightful-mochi-3a850f.netlify.app/)
+- Solution URL: [solution URL](https://github.com/HanishaSakalabhaktula/advice-generator-app)
+- Live Site URL: [live site URL](https://64e9fbbbd561de3c3706a0d9--delightful-mochi-3a850f.netlify.app/)
 
 ## What I learned
 
