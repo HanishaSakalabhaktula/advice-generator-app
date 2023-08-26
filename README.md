@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Frontend Mentor - Advice generator app solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [Links](#links)
+- [What I learned](#what-i-learned)
 
-In the project directory, you can run:
+## Introduction
+The Advice Generator App is a simple and fun application created with the Advanced Slip API. This software allows users to receive random pieces of advise on a variety of topics, delivering both practical and amusing suggestions. Whether users are looking for advice, a touch of humour, or just some intriguing observations, the Advice Generator App provides something for everybody.
 
-### `npm start`
+## Features
+The Advice Generator App's dynamic and engaging dice button is one of its major features. This button, located at the bottom of the app's screen, gives a sense of surprise and excitement to the advice-seeking experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### How it works
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Eye-Catching Design: The dice button is prominently displayed, featuring an eye-catching design that draws users' attention and invites them to interact.
 
-### `npm test`
+- User-Friendly Interaction: Users can simply click the dice button to trigger the retrieval of a new piece of advice. This straightforward interaction ensures that users of all levels can easily engage with the app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Fetching Advice: Behind the scenes, the app communicates with the Advanced Slip API to retrieve a random advice snippet. This ensures that each click on the dice button yields a unique and fresh piece of advice.
 
-### `npm run build`
+- Beautiful UI: The app boasts a visually appealing user interface that elegantly presents the fetched advice. The advice is displayed in a clear and readable manner, enhancing the overall user experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Provide step-by-step instructions on how to install your app. This might include:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository: `git clone https://github.com/your-username/your-app.git`
+2. Navigate to the project directory: `cd your-app`
+3. Install dependencies: `npm install` or `yarn install`
 
-### `npm run eject`
+## Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- Api - (https://api.adviceslip.com/advice)
+- fetch - to retrieve data from the api
+- [React](https://reactjs.org/) - JS library
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Links
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://64e9fbbbd561de3c3706a0d9--delightful-mochi-3a850f.netlify.app/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## What I learned
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. API Integration
+2. User Interface Design
+3. Event Handling and User Interaction
+4. State Management
+5. User Experience Enhancement
+6. Documentation and Communication
+7. Problem Solving and Debugging
