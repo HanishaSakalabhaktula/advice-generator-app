@@ -32,7 +32,7 @@ The Advice Generator App's dynamic and engaging dice button is one of its major 
 Provide step-by-step instructions on how to install your app. This might include:
 
 1. Clone the repository: `git clone https://github.com/HanishaSakalabhaktula/advice-generator-app.git`
-2. Navigate to the project directory: `cd your-app`
+2. Navigate to the project directory: `cd advice-generator-app`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Built with
